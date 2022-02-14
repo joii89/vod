@@ -1,5 +1,16 @@
 #EXTM3U
 
+#--------" FILM INDONESIA "--------
+
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Pasukan Berani Mati (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdE9FSA4CxsIzFmNWtLc4ZzFefw.jpg" group-title="FILM INDONESIA CLASSIC",Pasukan Berani Mati (1982)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38684.
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Pengkhianatan G30S/PKI (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xcTLEcs7rimkHjGMB9k150GwWN.jpg" group-title="FILM INDONESIA CLASSIC",Pengkhianatan G30S/PKI (1984)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38685.
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Penumpasan Sia-Sia PKI Blitar Selatan (Operasi Trisula) 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xcTLEcs7rimkHjGMB9k150GwWN.jpg" group-title="FILM INDONESIA CLASSIC",Penumpasan Sia-Sia PKI Blitar Selatan (Operasi Trisula) 1986
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38686.
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Tjoet Nja' Dhien (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1pkmmIyNF2CpjDzeSdZt8LBNln.jpg" group-title="FILM INDONESIA CLASSIC",Tjoet Nja' Dhien (1988)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38700.
+
 #--------" Adult "--------
 
 #EXTINF:0,Hustler HD Europe
@@ -89,3 +100,15 @@ http://www.goldentv.tech:25461/movie/Perfecto/170721/14844.
 http://www.goldentv.tech:25461/movie/Perfecto/170721/14841.
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Know Fear (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqjEnkzQro5Mb0nBPLkYv3uW3dq.jpg" group-title="STREAMING MOVIES",Know Fear (2021)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/14864.
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Super Pacifier (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTx2VPcSAZw7Kgog96FFiuaFDKY.jpg" group-title="STREAMING MOVIES",Super Pacifier (2020)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/14896.
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Mekah I'm Coming (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRyyrtg53gXiAnZSpni1h0jKFCK.jpg" group-title="STREAMING MOVIES",Mekah I'm Coming (2020)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/14783.mp4?dl=1
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="GRAYHOUND 2020" tvg-logo="https://www.dropbox.com/s/2cl9izrwbdyjs4a/grayhound%202020.jpeg?dl=1" group-title="STREAMING MOVIES",GRAYHOUND 2020
+http://www.goldentv.tech:25461/movie/Perfecto/170721/14777.mp4?dl=1
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="The Assistant (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJpJkVgezsR7dp6KQwyxtGIAOZv.jpg" group-title="STREAMING MOVIES",The Assistant (2020)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/14781.mp4?dl=1
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Nobody (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg" group-title="STREAMING MOVIES",Nobody (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38220.m3u8
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Thunder Force (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mKMWP5OokB7QpcOMA1yl8BXFAF.jpg" group-title="STREAMING MOVIES",Thunder Force (2021)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38224.m3u8
