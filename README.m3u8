@@ -10,6 +10,10 @@ http://www.goldentv.tech:25461/movie/Perfecto/170721/38685.
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38686.
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Tjoet Nja' Dhien (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1pkmmIyNF2CpjDzeSdZt8LBNln.jpg" group-title="FILM INDONESIA CLASSIC",Tjoet Nja' Dhien (1988)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38700.
+#EXTINF:-1 type="movie" tvg-logo="https://telegra.ph/file/521f96cbc505fa6e79750.jpg" group-title="STREAMING MOVIES",Penunggang Agama FHD 720p [Malay Sub]
+https://f2lpadubot.herokuapp.com/1694229264714204/Penunggang.Agama.2021.1080p.PPVHD.mkv
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Mekah I'm Coming (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRyyrtg53gXiAnZSpni1h0jKFCK.jpg" group-title="STREAMING MOVIES",Mekah I'm Coming (2020)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/14783.mp4?dl=1
 
 #--------" Adult "--------
 
@@ -42,7 +46,7 @@ https://www.googleapis.com/drive/v3/files/1AhydLdlZNb-zIhlV7ElNW4MVkU_ZW8Xw?alt=
 https://www.googleapis.com/drive/v3/files/111mRrj1X_gdQ8An8y9pi1neUG0J_XiuI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/20amKvh.png" group-title="STREAMING MOVIES",Aladdin (2019)
 https://www.googleapis.com/drive/v3/files/1o6WIiNucWr8DRT77mVDzsdYNMi_Siho9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/WpZVy7ZG/MV5-BZDNl-Nj-I2-Mjkt-Zj-Qz-Zi00-ODY4-LWFi-NDEt-Y2-Ix-MGJh-OWQw-MTc5-Xk-Ey-Xk-Fqc-Gde-QXVy-NTU1-ODMy-Nj-A-V1.jpg" group-title="VOD",Alien Outbreak (2020)
+#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/WpZVy7ZG/MV5-BZDNl-Nj-I2-Mjkt-Zj-Qz-Zi00-ODY4-LWFi-NDEt-Y2-Ix-MGJh-OWQw-MTc5-Xk-Ey-Xk-Fqc-Gde-QXVy-NTU1-ODMy-Nj-A-V1.jpg" group-title="STREAMING MOVIES",Alien Outbreak (2020)
 https://www.googleapis.com/drive/v3/files/14IjQLyHZ82JZyYwqTUeldnrOs6GiZjBd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/SRKRHtWy/FB-IMG-1642308235836.jpg" group-title="STREAMING MOVIES",Pete Davidson: Alive from New York (2020)
 https://www.googleapis.com/drive/v3/files/1JhQxX-wbJsA5fYm_REz5MOpunSKEdtiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -56,12 +60,10 @@ https://www.googleapis.com/drive/v3/files/1QnfuBUVC_AqlhV7qV5BIltlEJrIP4ZSA?alt=
 https://www.googleapis.com/drive/v3/files/1I03tgMD6qcB9CMGNzPJmscsT1CyQNy2h?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/TjV5ELn.png" group-title="STREAMING MOVIES",Badland (2019)
 https://www.googleapis.com/drive/v3/files/157KI9fbIYyEdMh6OsfbgZdeNx26x-NDw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/s28YMzwZ/MV5-BOWU0-MTFl-Nz-It-N2-Nl-YS00-N2-I5-LTk2-MTkt-NDFi-Ym-U5-NWQ3-MTEz-Xk-Ey-Xk-Fqc-Gde-QXVy-ODEw-MTc2-ODQ-V1.jpg" group-title="VOD",Bad Cat (2018)
+#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/s28YMzwZ/MV5-BOWU0-MTFl-Nz-It-N2-Nl-YS00-N2-I5-LTk2-MTkt-NDFi-Ym-U5-NWQ3-MTEz-Xk-Ey-Xk-Fqc-Gde-QXVy-ODEw-MTc2-ODQ-V1.jpg" group-title="STREAMING MOVIES",Bad Cat (2018)
 https://www.googleapis.com/drive/v3/files/1_ASGEGHBRL-94hKvUtdw7Y_CD412RZM3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 type="movie" tvg-logo="https://i.imgur.com/v5KMe5E.jpg" group-title="STREAMING MOVIES",KOREAN MOVIE || Another Child (2019)
 https://www.googleapis.com/drive/v3/files/1E9-i4oHMqCzdW60ATlMykxHoU-qRcQ4u?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
-#EXTINF:-1 type="movie" tvg-logo="https://telegra.ph/file/521f96cbc505fa6e79750.jpg" group-title="STREAMING MOVIES",Penunggang Agama FHD 720p [Malay Sub]
-https://f2lpadubot.herokuapp.com/1694229264714204/Penunggang.Agama.2021.1080p.PPVHD.mkv
 #EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/4NyDgxC6/18-puasa-di-kampung-pisang-astro.jpg" group-title="STREAMING MOVIES",18 Puasa Di Kampong Pisang 1080p
 https://f2lpadubot.herokuapp.com/1382655157193180/18.Puasa..Di.Kampong.Pisang.1080p.PPVHD.mkv
 #EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/bYk7YBdJ/Stand-by-Me-Doraemon-2.jpg" group-title="STREAMING MOVIES",Stand by Me Doraemon 2 720p [Malay Sub]
@@ -102,10 +104,6 @@ http://www.goldentv.tech:25461/movie/Perfecto/170721/14841.
 http://www.goldentv.tech:25461/movie/Perfecto/170721/14864.
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Super Pacifier (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTx2VPcSAZw7Kgog96FFiuaFDKY.jpg" group-title="STREAMING MOVIES",Super Pacifier (2020)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/14896.
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Mekah I'm Coming (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRyyrtg53gXiAnZSpni1h0jKFCK.jpg" group-title="STREAMING MOVIES",Mekah I'm Coming (2020)
-http://www.goldentv.tech:25461/movie/Perfecto/170721/14783.mp4?dl=1
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="GRAYHOUND 2020" tvg-logo="https://www.dropbox.com/s/2cl9izrwbdyjs4a/grayhound%202020.jpeg?dl=1" group-title="STREAMING MOVIES",GRAYHOUND 2020
-http://www.goldentv.tech:25461/movie/Perfecto/170721/14777.mp4?dl=1
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="The Assistant (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJpJkVgezsR7dp6KQwyxtGIAOZv.jpg" group-title="STREAMING MOVIES",The Assistant (2020)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/14781.mp4?dl=1
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Nobody (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg" group-title="STREAMING MOVIES",Nobody (2021)
