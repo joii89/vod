@@ -1,16 +1,15 @@
 #EXTM3U
 
-#--------" FILM INDONESIA "--------
+#--------" VOD IND "--------
 
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Pasukan Berani Mati (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdE9FSA4CxsIzFmNWtLc4ZzFefw.jpg" group-title="FILM INDONESIA CLASSIC",Pasukan Berani Mati (1982)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Pasukan Berani Mati (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdE9FSA4CxsIzFmNWtLc4ZzFefw.jpg" group-title="VOD INDO",Pasukan Berani Mati (1982)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38684.
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Pengkhianatan G30S/PKI (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xcTLEcs7rimkHjGMB9k150GwWN.jpg" group-title="FILM INDONESIA CLASSIC",Pengkhianatan G30S/PKI (1984)
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Pengkhianatan G30S/PKI (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xcTLEcs7rimkHjGMB9k150GwWN.jpg" group-title="VOD INDO",Pengkhianatan G30S/PKI (1984)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38685.
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Penumpasan Sia-Sia PKI Blitar Selatan (Operasi Trisula) 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xcTLEcs7rimkHjGMB9k150GwWN.jpg" group-title="FILM INDONESIA CLASSIC",Penumpasan Sia-Sia PKI Blitar Selatan (Operasi Trisula) 1986
+#EXTINF:-1 type="movie" tvg-id="" tvg-name="Penumpasan Sia-Sia PKI Blitar Selatan (Operasi Trisula) 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xcTLEcs7rimkHjGMB9k150GwWN.jpg" group-title="VOD INDO",Penumpasan Sia-Sia PKI Blitar Selatan (Operasi Trisula) 1986
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38686.
-#EXTINF:-1 type="movie" tvg-id="" tvg-name="Tjoet Nja' Dhien (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1pkmmIyNF2CpjDzeSdZt8LBNln.jpg" group-title="FILM INDONESIA CLASSIC",Tjoet Nja' Dhien (1988)
-http://www.goldentv.tech:25461/movie/Perfecto/170721/38700.
-#EXTINF:-1 type="movie" tvg-logo="https://telegra.ph/file/521f96cbc505fa6e79750.jpg" group-title="STREAMING MOVIES",Penunggang Agama FHD 720p [Malay Sub]
+
+#EXTINF:-1 type="movie" tvg-logo="https://telegra.ph/file/521f96cbc505fa6e79750.jpg" group-title="VOD INDO",Penunggang Agama FHD 720p [Malay Sub]
 https://f2lpadubot.herokuapp.com/1694229264714204/Penunggang.Agama.2021.1080p.PPVHD.mkv
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Mekah I'm Coming (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRyyrtg53gXiAnZSpni1h0jKFCK.jpg" group-title="STREAMING MOVIES",Mekah I'm Coming (2020)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/14783.mp4?dl=1
@@ -144,6 +143,8 @@ https://lh3.googleusercontent.com/r1kzl43Tk-EUmb6VFOu7fCYLTrL6kmv9C_rsME-DXxlpqz
 
 #--------" Adult "--------
 
+#EXTINF:-1 group-title="Adult",Moms Teach Sex - Step mom fucks daughters boyfriend
+http://12156.vod.redtraffic.xyz/ph56ddd9d4300e4/play.m3u8
 #EXTINF:0,Hustler HD Europe
 #EXTGRP:ADULT 18+
 http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/244/index.m3u
@@ -153,15 +154,47 @@ http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/245/index.m3u
 #EXTINF:0,Passion XXX
 #EXTGRP:ADULT 18+
 http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/878/index.m3u
+#EXTINF:-1 group-title="Adult",Nami Minami Let Play School
+http://12156.vod.adultiptv.net/ph5aa7c508264fa/play.m3u8
+#EXTINF:-1 group-title="Adult",Japanese public sex
+http://12156.vod.adultiptv.net/ph59d580ea7f0ba/play.m3u8
+#EXTINF:-1 group-title="Adult",Young Swedish couple fucking
+http://12156.vod.redtraffic.xyz/ph595bf5b854a38/play.m3u8
+#EXTINF:-1 group-title="Adult",Blonde Step Sister Tells Little Brother Another Bedtime Story - Marsha May
+http://12156.vod.redtraffic.xyz/ph5b0e3d812ccc0/play.m3u8
+#EXTINF:-1 group-title="Amateur",Blonde teen is squirting while her ass is gaped and creampied. HD
+http://12156.vod.adultiptv.net/ph5b61b213bd400/play.m3u8
 #EXTINF:0,Blue Hustler
 #EXTGRP:ADULT 18+
 http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/1064/index.m3u
+#EXTINF:-1 group-title="Adult",chinese couple 4p中国夫妻4p
+http://12156.vod.adultiptv.net/ph57b1b455a7193/play.m3u8
+#EXTINF:-1 group-title="Adult",Jav Amateur Teen Morikawa Fucks On The Floor Uncensored Action Chubby
+http://12156.vod.adultiptv.net/ph5be450cbcb82a/play.m3u8
+#EXTINF:-1 group-title="Adult",19 years old Chinese flight attendants getting fucked in uniform
+http://12156.vod.redtraffic.xyz/ph5884e9bf38c35/play.m3u8
+#EXTINF:-1 group-title="Adult",MOM Sexy Russian redhead milf in lingerie and heels loves to fuck
+http://12156.vod.adultiptv.net/ph57401e73a6add/play.m3u8
+#EXTINF:-1 group-title="Adult",Instagram Model Cheats on Vacation - Brandi Bae
+http://12156.vod.redtraffic.xyz/ph5be5cac14227d/play.m3u8
 #EXTINF:0,Barely legal
 #EXTGRP:ADULT 18+
 http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/871/index.m3u
+#EXTINF:-1 group-title="Adult",Molly Jane in StepDaughter and dad fucking compilation in front of mom
+http://12156.vod.adultiptv.net/ph5a40383e67148/play.m3u8
+#EXTINF:-1 group-title="Adult",HOLED - Virgin boy anal fucks busty stepmom Cory Chase
+http://12156.vod.redtraffic.xyz/ph5829fde0774a9/play.m3u8
+#EXTINF:-1 group-title="Adult",Ikuta Miku Plays The Daughter In This Sod Drama Fucked In front Of Aunts
+http://12156.vod.redtraffic.xyz/ph5b84d78edad74/play.m3u8
 #EXTINF:0,Brazzers TV Europe
 #EXTGRP:ADULT 18+
 http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/910/index.m3u
+#EXTINF:-1 group-title="Adult",chinese
+http://12156.vod.redtraffic.xyz/ph590777be458bf/play.m3u8
+#EXTINF:-1 group-title="Adult",Asian Big ASS - Mitsu Tekitsu Part 1
+http://12156.vod.adultiptv.net/ph5b8c902e07283/play.m3u8
+#EXTINF:-1 group-title="Adult",#039;s Cum - Goddess Brianna - Mom Comes First
+http://12156.vod.adultiptv.net/ph5a4f51ae856fc/play.m3u8
 
 #--------" STREAMING MOVIES "--------
 
