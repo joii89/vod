@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="VOD Adult",AdultIPTV.net Asian
+http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:0,RedTraffic MILF
 http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:0,RedTraffic Big Dick
